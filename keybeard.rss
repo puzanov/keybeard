@@ -6,7 +6,7 @@
         <link>http://www.rss-specifications.com/rss-articles.htm</link>
         <lastBuildDate>Mon, 25 Jul 2005 16:37:32 -0400</lastBuildDate>
         <pubDate>Mon, 25 Jul 2005 09:00:00 -0400</pubDate>
-        <generator>FeedForAll Mac v1.0 (1.0.1.0) unlicensed version</generator>
+        <generator>Hands</generator>
         <language>ru</language>
         <itunes:category text="Technology">
             <itunes:category text="Information Technology"/>
@@ -15,14 +15,14 @@
         <itunes:summary>Podcasting tutorial developed by the FeedForAll Mac Team to walk you through the steps necessary to publish a podcast on iTunes Music Store using this very program. Simple and precise instructions will guide you through creating an RSS feed that can contain audio, artwork, or simple xml.</itunes:summary>
         <itunes:author>FeedForAll Mac OS Team</itunes:author>
         <itunes:owner>
-            <itunes:name>FeedForAll Mac OS Team</itunes:name>
-            <itunes:email>macsupport@feedforall.com</itunes:email>
+            <itunes:name>Michael Ivashenko & Oleg Puzanov</itunes:name>
+            <itunes:email>aka.le.mulder@gmail.com</itunes:email>
         </itunes:owner>
         <itunes:explicit>Yes</itunes:explicit>
         <itunes:image>
-            <url>http://files.idrsolutions.com/Java_PDF_Podcasts/idrlogo.png</url>
-            <title>FeedForAll Logo</title>
-            <link>http://www.feedforall.com</link>
+            <url>http://keybeard.yourcast.tv/keybeard-logotype.png</url>
+            <title>Keybeard Show</title>
+            <link>http://keybeard.show/</link>
         </itunes:image>
         <itunes:link rel="image" type="video/jpeg" href="http://files.idrsolutions.com/Java_PDF_Podcasts/idrlogo.png">- FeedForAll Podcasting Tutorial</itunes:link>
         <item>
