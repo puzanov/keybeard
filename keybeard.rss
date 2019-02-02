@@ -36,7 +36,7 @@
             </itunes:category>
             <itunes:explicit>Yes</itunes:explicit>
             <itunes:duration>5:50</itunes:duration>
-            <itunes:keywords>программирование</itunes:keywords>
+            <itunes:keywords>программирование it software podcast talks</itunes:keywords>
         </item>
         <item>
             <title>Keybeard #1 – Шабашки, context switching, грачи и ебашисты</title>
@@ -49,7 +49,7 @@
             </itunes:category>
             <itunes:explicit>Yes</itunes:explicit>
             <itunes:duration>29:02</itunes:duration>
-            <itunes:keywords>программирование</itunes:keywords>
+            <itunes:keywords>программирование it software podcast talks</itunes:keywords>
         </item>
         <item>
             <title>Keybeard #2 – Женатики и холостяки в IT командах</title>
@@ -62,7 +62,7 @@
             </itunes:category>
             <itunes:explicit>Yes</itunes:explicit>
             <itunes:duration>32:25</itunes:duration>
-            <itunes:keywords>программирование</itunes:keywords>
+            <itunes:keywords>программирование it software podcast talks</itunes:keywords>
         </item>
     </channel>
 </rss>
