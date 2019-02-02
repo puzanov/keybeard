@@ -25,7 +25,6 @@
             <link>http://keybeard.show/</link>
         </itunes:image>
         <itunes:link rel="image" type="video/jpeg" href="http://keybeard.yourcast.tv/keybeard-logotype.png">- Keybeard Show</itunes:link>
-        
         <item>
             <title>Keybeard #0 – Pilot</title>
             <description>Наша первая попытка записать что-то вроде видеоподкаста. Из получасовой беседы порезали до 5+ минут. Информативности в этом выпуске-пилоте примерно 1%, нарезано больше для того, чтобы примерно было ясно, в каком формате все это будет происходить дальше. Меняются темы беседы не очевидно, т.к. это типа трейлер. Отзывы, комментарии и предложения настоятельно приветствуются. P.S. Кстати, здесь взрослые дядьки ругаются матом. Поэтому, возможно, NSFW (мы еще не решили).</description>
@@ -37,6 +36,19 @@
             </itunes:category>
             <itunes:explicit>Yes</itunes:explicit>
             <itunes:duration>5:50</itunes:duration>
+            <itunes:keywords>программирование</itunes:keywords>
+        </item>
+        <item>
+            <title>Keybeard #1 – Шабашки, context switching, грачи и ебашисты</title>
+            <description>Первый полноценный выпуск Keybeard, в котором мы, сидя на диване в офисе MadDevs, разговариваем на такие темы, как: Допустимы ли шабашки? Что за зверь context switching, чем он страшен и как бороться? Грачи и ебашисты. Детальное обсуждение теории Пузанова и его друга Виталика. В выпуске присутствует ненормативная лексика, так что лучше смотреть и слушать в наушниках.</description>
+            <link>https://www.youtube.com/watch?v=xlMSucl1p-8</link>
+            <enclosure url="http://keybeard.yourcast.tv/1.mp3" type="audio/mpeg"></enclosure>
+            <pubDate>Mon, Jun 19 2017 09:00:00 +0600</pubDate>
+            <itunes:category text="Technology">
+                <itunes:category text="Information Technology"/>
+            </itunes:category>
+            <itunes:explicit>Yes</itunes:explicit>
+            <itunes:duration>29:02</itunes:duration>
             <itunes:keywords>программирование</itunes:keywords>
         </item>
     </channel>
