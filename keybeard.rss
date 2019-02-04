@@ -64,5 +64,136 @@
             <itunes:duration>32:25</itunes:duration>
             <itunes:keywords>программирование it software podcast talks</itunes:keywords>
         </item>
+        <item>
+            <title>Keybeard #3 – Мана концентрации</title>
+            <description>В этом выпуске мы затронули тему концентрации, как одного из основных навыков разработчика. Рассказали о методах концентрации и о том, как восполнять запас этого, к сожалению, не бесконечного ресурса.</description>
+            <link>https://www.youtube.com/watch?v=9r0wKAIPKJA</link>
+            <enclosure url="http://keybeard.yourcast.tv/3.mp3" type="audio/mpeg"></enclosure>
+            <pubDate>Thu, Oct 19 2017 09:00:00 +0600</pubDate>
+            <itunes:category text="Technology">
+                <itunes:category text="Information Technology"/>
+            </itunes:category>
+            <itunes:explicit>Yes</itunes:explicit>
+            <itunes:duration>38:31</itunes:duration>
+            <itunes:keywords>программирование it software podcast talks</itunes:keywords>
+        </item>
+        <item>
+            <title>Keybeard #4 – Перфекционизм</title>
+            <description>Выпуск, посвященный перфекционизму, как одному из якорей прогресса и положительным качеством для некоторых специальностей. Пытались разобраться – хорошо это все-таки или плохо, надо избавляться от него или нет и если да, то как.</description>
+            <link>https://www.youtube.com/watch?v=U-khTJ1TWv8</link>
+            <enclosure url="http://keybeard.yourcast.tv/4.mp3" type="audio/mpeg"></enclosure>
+            <pubDate>Sat, Dec 9 2017 09:00:00 +0600</pubDate>
+            <itunes:category text="Technology">
+                <itunes:category text="Information Technology"/>
+            </itunes:category>
+            <itunes:explicit>Yes</itunes:explicit>
+            <itunes:duration>44:43</itunes:duration>
+            <itunes:keywords>программирование it software podcast talks</itunes:keywords>
+        </item>
+        <item>
+            <title>Keybeard #5 – Синдром самозванца</title>
+            <description>В этом выпуске мы записывались в новом месте, где возможно не идеальные условия по звуку, но крайне офигенная атмосфера – Torro Bar&Grill. Был у нас в гостях Даниил Вартанов, который предложил обсудить такую тему, как синдром самозванца. Тема оказалась очень интересной и мы ожидаем много фидбека. Поговорили, как обычно – о примерах, о мифах, о способах решения проблемы.</description>
+            <link>https://www.youtube.com/watch?v=uSeAnUVUbOY</link>
+            <enclosure url="http://keybeard.yourcast.tv/5.mp3" type="audio/mpeg"></enclosure>
+            <pubDate>Sun, Dec 31 2017 09:00:00 +0600</pubDate>
+            <itunes:category text="Technology">
+                <itunes:category text="Information Technology"/>
+            </itunes:category>
+            <itunes:explicit>Yes</itunes:explicit>
+            <itunes:duration>32:18</itunes:duration>
+            <itunes:keywords>программирование it software podcast talks</itunes:keywords>
+        </item>
+        <item>
+            <title>Keybeard #6 – Английский язык в IT</title>
+            <description>Программист должен знать английский язык. Это аксиома. Изучать и совершенствовать английский для программиста и любого сотрудника IT компании – обязательное условие. Учить английский учить очень важно, а почему это особенно важно для программистов мы и расскажем в этом выпуске. Как учить английский и как его тренировать. Записаться к репетитору? Читать книги на английском языке? Найти друзей, которые говорят на английском? Как относятся к вам носители языка? Смеются ли они над вашими ошибками? Почему многие программисты не могут говорить на английском из-за психологических барьеров? Как эти барьеры разрушить? Обо всем этом и не только мы поговорили в этом выпуске. Надеемся, он окажется для вас полезным.</description>
+            <link>https://www.youtube.com/watch?v=BI0fP8PmZv8</link>
+            <enclosure url="http://keybeard.yourcast.tv/6.mp3" type="audio/mpeg"></enclosure>
+            <pubDate>Sat, Mar 3 2018 09:00:00 +0600</pubDate>
+            <itunes:category text="Technology">
+                <itunes:category text="Information Technology"/>
+            </itunes:category>
+            <itunes:explicit>Yes</itunes:explicit>
+            <itunes:duration>29:42</itunes:duration>
+            <itunes:keywords>программирование it software podcast talks</itunes:keywords>
+        </item>
+        <item>
+            <title>Keybeard #7 – Коммуникации в разработке софта</title>
+            <description>Коммуницируй! Такой посыл несет в себе этот выпуск. Сейчас легко можно впасть в иллюзорное ощущение того, что на дворе 2к18 и можно уже не париться про то, как общаться с людьми. И в эту ловушку часто попадают классные ребята, которые сами себе ставят палки в колеса и не могут из-за этого прогрессировать так быстро, как позволяет среда. Мы постарались развенчать эти мифы про "Коммуникации не нужны" и обратили внимание на то, как эффективно коммуницировать и почему это важно.</description>
+            <link>https://www.youtube.com/watch?v=Ej1VJZ0uwHc</link>
+            <enclosure url="http://keybeard.yourcast.tv/7.mp3" type="audio/mpeg"></enclosure>
+            <pubDate>Wed, Apr 11 2018 09:00:00 +0600</pubDate>
+            <itunes:category text="Technology">
+                <itunes:category text="Information Technology"/>
+            </itunes:category>
+            <itunes:explicit>Yes</itunes:explicit>
+            <itunes:duration>37:46</itunes:duration>
+            <itunes:keywords>программирование it software podcast talks</itunes:keywords>
+        </item>
+        <item>
+            <title>Keybeard #8 – Web presence: что, для чего и как?</title>
+            <description>Этот выпуск у нас про то, как сделать так, чтобы ты не был "интернетным нулем" и про тебя можно было найти релевантную инфу в том же Гугле. Можно, сказать, этот выпуск про маркетинг себя любимого или "как заSEOшить свое имя". Выпуск должен быть полезен для тех, кто не собирается прятаться от окружающего мира и хочет, чтобы приятные изменения происходили в жизни чаще. Мы говорили про "Это уже было в Симпсонах" в выпуске. Это все-таки серия Южного Парка: https://ru.wikipedia.org/wiki/%D0%AD%D1%82%D0%BE_%D1%83%D0%B6%D0%B5_%D0%B1%D1%8B%D0%BB%D0%BE_%D0%B2_%C2%AB%D0%A1%D0%B8%D0%BC%D0%BF%D1%81%D0%BE%D0%BD%D0%B0%D1%85%C2%BB</description>
+            <link>https://www.youtube.com/watch?v=xOHhcTNftkc</link>
+            <enclosure url="http://keybeard.yourcast.tv/8.mp3" type="audio/mpeg"></enclosure>
+            <pubDate>Sat, May 26 2018 09:00:00 +0600</pubDate>
+            <itunes:category text="Technology">
+                <itunes:category text="Information Technology"/>
+            </itunes:category>
+            <itunes:explicit>Yes</itunes:explicit>
+            <itunes:duration>30:10</itunes:duration>
+            <itunes:keywords>программирование it software podcast talks</itunes:keywords>
+        </item>
+        <item>
+            <title>Keybeard #9 – Мудаки в IT</title>
+            <description>Мудак. Как много в этом слове... Все мы встречали и взаимодействовали с мудаками. В программировании, они тоже есть. Возможно, вам и сейчас с такими приходится работать. В комментариях к прошлым видео была поднята тема мудаки и программирование, и мы решили её раскрыть. Поговорили о том, что есть "мудачество", как с ним можно (и нужно, но это не точно) бороться, как это влияет на атмосферу в коллективах программистов и где черпать ответы на вопросы бытия. Надеемся, что тема поможет кому-то решить долгоиграющую проблему, заключающуюся в том, что приходится взаимодействовать с токсичными людьми, которые не позволяют вам и/или продукту полностью раскрыться и прогрессировать. А кому-то, возможно, поможет увидеть себя со стороны. В любом случае, в сфере программирования мудаки есть, но кто знает, сколько их в других сферах? Поэтому делитесь своими советами, хаками и вариантами решения проблем, когда мудак программист мешал вам полноценно писать код или решать другие задачи. Также оставляйте в комментариях свои пожелания к темам, которые хотели бы раскрыть в следующих выпусках.</description>
+            <link>https://www.youtube.com/watch?v=-VkvU35WTok</link>
+            <enclosure url="http://keybeard.yourcast.tv/9.mp3" type="audio/mpeg"></enclosure>
+            <pubDate>Thu, Jun 21 2018 09:00:00 +0600</pubDate>
+            <itunes:category text="Technology">
+                <itunes:category text="Information Technology"/>
+            </itunes:category>
+            <itunes:explicit>Yes</itunes:explicit>
+            <itunes:duration>33:43</itunes:duration>
+            <itunes:keywords>программирование it software podcast talks</itunes:keywords>
+        </item>
+        <item>
+            <title>Keybeard #10 – Хаки обучения</title>
+            <description>Каждый сотрудник IT сферы должен учиться, иначе очень быстро становишься "не в теме". Обучение является постоянным занятием программиста, менеджера, дизайнера – кого угодно. Но это непростая задача и без определенных навыков это тяжело. В этом выпуске мы (Олег) рассказали о хаках в обучении себя любимого. Как приучить себя обучаться? Как не скипать уроки? Как мотивировать себя? Как делать процесс обучения более интересным и не нудным? На эти вопросы мы постарались ответить в этом выпуске. Старались не рассказывать о стандартных вещах, делая упор на более неочевидных вещи. Как всегда, ждем ваших комментариев и хаков.</description>
+            <link>https://www.youtube.com/watch?v=fV0VYPKbnpo</link>
+            <enclosure url="http://keybeard.yourcast.tv/10.mp3" type="audio/mpeg"></enclosure>
+            <pubDate>Wed, Aug 15 2018 09:00:00 +0600</pubDate>
+            <itunes:category text="Technology">
+                <itunes:category text="Information Technology"/>
+            </itunes:category>
+            <itunes:explicit>Yes</itunes:explicit>
+            <itunes:duration>29:22</itunes:duration>
+            <itunes:keywords>программирование it software podcast talks</itunes:keywords>
+        </item>
+        <item>
+            <title>Keybeard #11 – Выпуск для заказчика</title>
+            <description>В этом выпуске мы решили немного сменить формат и рассказать о том, что нужно делать заказчику, который решил потратить деньги на услуги программистов. Мы рассказали о том, с чего начать, какую выбрать команду программистов – удаленную или в офис, как собеседовать программистов и т.д. Самое важное – в этом выпуске рассказано о том, как программисты могут обманывать заказчика и как на это не напороться (и как с этим бороться, если все-таки напоролись).</description>
+            <link>https://www.youtube.com/watch?v=Mzt0P_cw7O0</link>
+            <enclosure url="http://keybeard.yourcast.tv/11.mp3" type="audio/mpeg"></enclosure>
+            <pubDate>Sat, Dec 29 2018 09:00:00 +0600</pubDate>
+            <itunes:category text="Technology">
+                <itunes:category text="Information Technology"/>
+            </itunes:category>
+            <itunes:explicit>Yes</itunes:explicit>
+            <itunes:duration>30:39</itunes:duration>
+            <itunes:keywords>программирование it software podcast talks</itunes:keywords>
+        </item>
+        <!--
+        <item>
+            <title>Keybeard #12 – Мат в IT. Матерятся ли в командах программистов?</title>
+            <description>Этот выпуск у нас про то, как обстоят дела с матом в командах программистов. Матерятся ли они? Или говорят исключительно литературным языком? Как быть, когда в команде все матерятся, а один программист этого не приемлет? А как быть с заказчиком – допустимо ли, чтобы ваш кастомер слышал/видел, как вы кроете матом дизайнера или сисадмина? На все эти вопросы мы постарались ответить. Заодно обсудили, почему программисты все-таки порой матерятся и нужно ли их за это ругать. В видео используется трек Pop Sound с сайта https://www.bensound.com/royalty-free-music (пришлось вставить ссылочку).</description>
+            <link>https://www.youtube.com/watch?v=6tMW9d3ymCI</link>
+            <enclosure url="http://keybeard.yourcast.tv/12.mp3" type="audio/mpeg"></enclosure>
+            <pubDate>Mon, Jan 21 2019 09:00:00 +0600</pubDate>
+            <itunes:category text="Technology">
+                <itunes:category text="Information Technology"/>
+            </itunes:category>
+            <itunes:explicit>Yes</itunes:explicit>
+            <itunes:duration>20:20</itunes:duration>
+            <itunes:keywords>программирование it software podcast talks</itunes:keywords>
+        </item>
+        -->        
     </channel>
-</rss>
