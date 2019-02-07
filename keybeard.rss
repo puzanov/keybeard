@@ -34,6 +34,7 @@
             <itunes:category text="Technology">
                 <itunes:category text="Information Technology"/>
             </itunes:category>
+            <itunes:order>1</itunes:order>
             <itunes:explicit>Yes</itunes:explicit>
             <itunes:duration>5:50</itunes:duration>
             <itunes:keywords>программирование it software podcast talks</itunes:keywords>
@@ -47,6 +48,7 @@
             <itunes:category text="Technology">
                 <itunes:category text="Information Technology"/>
             </itunes:category>
+            <itunes:order>2</itunes:order>
             <itunes:explicit>Yes</itunes:explicit>
             <itunes:duration>29:02</itunes:duration>
             <itunes:keywords>программирование it software podcast talks</itunes:keywords>
@@ -60,6 +62,7 @@
             <itunes:category text="Technology">
                 <itunes:category text="Information Technology"/>
             </itunes:category>
+            <itunes:order>3</itunes:order>
             <itunes:explicit>Yes</itunes:explicit>
             <itunes:duration>32:25</itunes:duration>
             <itunes:keywords>программирование it software podcast talks</itunes:keywords>
@@ -73,6 +76,7 @@
             <itunes:category text="Technology">
                 <itunes:category text="Information Technology"/>
             </itunes:category>
+            <itunes:order>4</itunes:order>
             <itunes:explicit>Yes</itunes:explicit>
             <itunes:duration>38:31</itunes:duration>
             <itunes:keywords>программирование it software podcast talks</itunes:keywords>
@@ -86,6 +90,7 @@
             <itunes:category text="Technology">
                 <itunes:category text="Information Technology"/>
             </itunes:category>
+            <itunes:order>5</itunes:order>
             <itunes:explicit>Yes</itunes:explicit>
             <itunes:duration>44:43</itunes:duration>
             <itunes:keywords>программирование it software podcast talks</itunes:keywords>
@@ -99,6 +104,7 @@
             <itunes:category text="Technology">
                 <itunes:category text="Information Technology"/>
             </itunes:category>
+            <itunes:order>6</itunes:order>
             <itunes:explicit>Yes</itunes:explicit>
             <itunes:duration>32:18</itunes:duration>
             <itunes:keywords>программирование it software podcast talks</itunes:keywords>
@@ -112,6 +118,7 @@
             <itunes:category text="Technology">
                 <itunes:category text="Information Technology"/>
             </itunes:category>
+            <itunes:order>7</itunes:order>
             <itunes:explicit>Yes</itunes:explicit>
             <itunes:duration>29:42</itunes:duration>
             <itunes:keywords>программирование it software podcast talks</itunes:keywords>
@@ -125,6 +132,7 @@
             <itunes:category text="Technology">
                 <itunes:category text="Information Technology"/>
             </itunes:category>
+            <itunes:order>8</itunes:order>
             <itunes:explicit>Yes</itunes:explicit>
             <itunes:duration>37:46</itunes:duration>
             <itunes:keywords>программирование it software podcast talks</itunes:keywords>
@@ -138,6 +146,7 @@
             <itunes:category text="Technology">
                 <itunes:category text="Information Technology"/>
             </itunes:category>
+            <itunes:order>9</itunes:order>
             <itunes:explicit>Yes</itunes:explicit>
             <itunes:duration>30:10</itunes:duration>
             <itunes:keywords>программирование it software podcast talks</itunes:keywords>
@@ -151,6 +160,7 @@
             <itunes:category text="Technology">
                 <itunes:category text="Information Technology"/>
             </itunes:category>
+            <itunes:order>10</itunes:order>
             <itunes:explicit>Yes</itunes:explicit>
             <itunes:duration>33:43</itunes:duration>
             <itunes:keywords>программирование it software podcast talks</itunes:keywords>
@@ -164,6 +174,7 @@
             <itunes:category text="Technology">
                 <itunes:category text="Information Technology"/>
             </itunes:category>
+            <itunes:order>11</itunes:order>
             <itunes:explicit>Yes</itunes:explicit>
             <itunes:duration>29:22</itunes:duration>
             <itunes:keywords>программирование it software podcast talks</itunes:keywords>
@@ -177,6 +188,7 @@
             <itunes:category text="Technology">
                 <itunes:category text="Information Technology"/>
             </itunes:category>
+            <itunes:order>12</itunes:order>
             <itunes:explicit>Yes</itunes:explicit>
             <itunes:duration>30:39</itunes:duration>
             <itunes:keywords>программирование it software podcast talks</itunes:keywords>
@@ -190,6 +202,7 @@
             <itunes:category text="Technology">
                 <itunes:category text="Information Technology"/>
             </itunes:category>
+            <itunes:order>13</itunes:order>
             <itunes:explicit>Yes</itunes:explicit>
             <itunes:duration>20:20</itunes:duration>
             <itunes:keywords>программирование it software podcast talks</itunes:keywords>
