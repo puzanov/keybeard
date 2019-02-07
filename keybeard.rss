@@ -181,7 +181,6 @@
             <itunes:duration>30:39</itunes:duration>
             <itunes:keywords>программирование it software podcast talks</itunes:keywords>
         </item>
-        <!--
         <item>
             <title>Keybeard #12 – Мат в IT. Матерятся ли в командах программистов?</title>
             <description>Этот выпуск у нас про то, как обстоят дела с матом в командах программистов. Матерятся ли они? Или говорят исключительно литературным языком? Как быть, когда в команде все матерятся, а один программист этого не приемлет? А как быть с заказчиком – допустимо ли, чтобы ваш кастомер слышал/видел, как вы кроете матом дизайнера или сисадмина? На все эти вопросы мы постарались ответить. Заодно обсудили, почему программисты все-таки порой матерятся и нужно ли их за это ругать. В видео используется трек Pop Sound с сайта https://www.bensound.com/royalty-free-music (пришлось вставить ссылочку).</description>
@@ -194,7 +193,6 @@
             <itunes:explicit>Yes</itunes:explicit>
             <itunes:duration>20:20</itunes:duration>
             <itunes:keywords>программирование it software podcast talks</itunes:keywords>
-        </item>
-        -->        
+        </item>    
     </channel>
 </rss>
