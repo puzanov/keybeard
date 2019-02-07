@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
     <channel>
         <title>Keybeard Show</title>
-        <description>Keybeard — это аудио видео подкаст, где программисты рассказывают программистам об околопрограммистких проблемах. Например о том, как бороться с ленью, как прокачивать фокус, как иметь дело с мудаками в команде, как мотивировать себя развиваться.</description>
+        <description>Keybeard — это аудио-видео подкаст, где программисты (и не очень) рассказывают программистам об околопрограммистких проблемах. Например о том, как бороться с ленью, как прокачивать фокус, как иметь дело с мудаками в команде, как мотивировать себя развиваться и т.д. Выпуски выходят примерно раз в месяц: редко, но метко – будет интересно послушать не только тем, кто непосредственно пишет код, но и тем, кто хотя бы косвенно относится к IT сфере.</description>
         <link>http://keybeard.show/</link>
         <lastBuildDate>Mon, 25 Jul 2005 16:37:32 -0400</lastBuildDate>
         <pubDate>Mon, 25 Jul 2005 09:00:00 -0400</pubDate>
@@ -12,10 +12,10 @@
             <itunes:category text="Information Technology"/>
         </itunes:category>
         <itunes:subtitle>Keybeard Show. Говорим про бытовые проблемы программистов</itunes:subtitle>
-        <itunes:summary>Keybeard — это аудио видео подкаст, где программисты рассказывают программистам об околопрограммистких проблемах. Например о том, как бороться с ленью, как прокачивать фокус, как иметь дело с мудаками в команде, как мотивировать себя развиваться.</itunes:summary>
-        <itunes:author>Michael Ivashenko & Oleg Puzanov</itunes:author>
+        <itunes:summary>Keybeard — это аудио-видео подкаст, где программисты (и не очень) рассказывают программистам об околопрограммистких проблемах. Например о том, как бороться с ленью, как прокачивать фокус, как иметь дело с мудаками в команде, как мотивировать себя развиваться и т.д. Выпуски выходят примерно раз в месяц: редко, но метко – будет интересно послушать не только тем, кто непосредственно пишет код, но и тем, кто хотя бы косвенно относится к IT сфере.</itunes:summary>
+        <itunes:author>Michael Ivashchenko & Oleg Puzanov</itunes:author>
         <itunes:owner>
-            <itunes:name>Michael Ivashenko & Oleg Puzanov</itunes:name>
+            <itunes:name>Michael Ivashchenko & Oleg Puzanov</itunes:name>
             <itunes:email>keybeardchannel@gmail.com</itunes:email>
         </itunes:owner>
         <itunes:explicit>Yes</itunes:explicit>
