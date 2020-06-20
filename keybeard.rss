@@ -205,7 +205,62 @@
             <itunes:order>13</itunes:order>
             <itunes:explicit>Yes</itunes:explicit>
             <itunes:duration>20:20</itunes:duration>
+            <itunes:keywords>программирование it software podcast talks</itunes:keywords>    
+        <item>
+            <title>Keybeard #13 – Ремоут и его достопримечательности</title>
+            <description>Мы давно хотели записать выпуск про удаленку aka remote, и готовы поделиться своими идеями и советами по поводу удаленной работы в IT. Выпуск может показаться скучноватым для тех, кто уже давно работает удаленно (а может и нет), но точно понравится начинающим удаленщикам.</description>
+            <link>https://www.youtube.com/watch?v=icwQZYL6Q1I</link>
+            <enclosure url="http://keybeard.yourcast.tv/13.mp3" type="audio/mpeg"></enclosure>
+            <pubDate>Mon, Aug 5 2019 09:00:00 +0600</pubDate>
+            <itunes:category text="Technology">
+                <itunes:category text="Information Technology"/>
+            </itunes:category>
+            <itunes:order>14</itunes:order>
+            <itunes:explicit>Yes</itunes:explicit>
+            <itunes:duration>37:22</itunes:duration>
             <itunes:keywords>программирование it software podcast talks</itunes:keywords>
-        </item>    
+        </item>
+        <item>
+            <title>Keybeard #14 – Заповеди программиста от Дяди Боба</title>
+            <description>Keybeard is baaaaaack! Мы вернулись, и вернулись с темой, которую давно хотели осветить – культура разработки, фундаментальные знания и навыки, маст хэвы для программиста; в общем, всё то, что завещал Дядя Боб. Мы обсудили основные принципы (читай: "заповеди") разработки, которые Роберт Мартин неоднократно обсуждал в своих лекциях. Мы их немного укоротили, адаптировали и детально обсудили. Как нам кажется, эти принципы должны знать все. И следовать им тоже нужно. Только так программирование продолжит свое существование в том виде, в котором оно существует сейчас: свободное, незарегулированное, живое.</description>
+            <link>https://www.youtube.com/watch?v=Aw1S6nHYueo</link>
+            <enclosure url="http://keybeard.yourcast.tv/14.mp3" type="audio/mpeg"></enclosure>
+            <pubDate>Mon, Apr 13 2020 09:00:00 +0600</pubDate>
+            <itunes:category text="Technology">
+                <itunes:category text="Information Technology"/>
+            </itunes:category>
+            <itunes:order>15</itunes:order>
+            <itunes:explicit>Yes</itunes:explicit>
+            <itunes:duration>52:25</itunes:duration>
+            <itunes:keywords>программирование it software podcast talks</itunes:keywords>
+        </item>
+        <item>
+            <title>Keybeard #15 – ПНН ПМы Не Нужны (?)</title>
+            <description>В наши дни бытует мнение о том, что проектный менеджер в IT – это человек без которого запросто можно обойтись. Его задачи и обязанности без особых проблем могут быть распределены внутри команды инженеров. Но так ли это в действительности? В очередном выпуске Keybeard Михаил Иващенко и Олег Пузанов дискутируют на тему возможности качественно вести разработку софта без участия проектного менеджера в ней. Профессия ПМа, существующая вот уже на протяжении уже около 50 лет, умирает или эволюционирует в нечто иное? Это нам и предстоит выяснить. Олег отстаивает принципиальную позицию – ПМы не нужны, Михаил же высказывает доводы об обратном. Интересное противостояние, не так ли?</description>
+            <link>https://www.youtube.com/watch?v=Jrs1njlVBqE</link>
+            <enclosure url="http://keybeard.yourcast.tv/15.mp3" type="audio/mpeg"></enclosure>
+            <pubDate>Sat, May 16 2020 09:00:00 +0600</pubDate>
+            <itunes:category text="Technology">
+                <itunes:category text="Information Technology"/>
+            </itunes:category>
+            <itunes:order>16</itunes:order>
+            <itunes:explicit>Yes</itunes:explicit>
+            <itunes:duration>41:16</itunes:duration>
+            <itunes:keywords>программирование it software podcast talks</itunes:keywords>
+        </item>
+        <item>
+            <title>Keybeard #16 – Тестировщики не нужны (?)</title>
+            <description>Продолжая серию выпусков "Не нужны (?)", Михаил Иващенко и Олег Пузанов решили обсудить доводы "за" и "против" того, необходимы ли тестировщики (QA – Quality assurance) в современных процессах разработки софта. Среди прочих, в выпуске будут обсуждены следующие мысли и вопросы: Если разработчик сам способен написать тесты на свой код и проверить продукт, то зачем отдельно выделенный человек на это? Какими навыками и инструментами должен обладать специалист по тестированию чтобы приносить пользу команде? Чем отличается ручной тестировщик от QA инженера? и др. Как всегда, вы услышите примеры из практики, и много специфичного "чисто айтишного" юмора.</description>
+            <link>https://www.youtube.com/watch?v=5CbcMoulwIo</link>
+            <enclosure url="http://keybeard.yourcast.tv/16.mp3" type="audio/mpeg"></enclosure>
+            <pubDate>Sat, May 30 2020 09:00:00 +0600</pubDate>
+            <itunes:category text="Technology">
+                <itunes:category text="Information Technology"/>
+            </itunes:category>
+            <itunes:order>17</itunes:order>
+            <itunes:explicit>Yes</itunes:explicit>
+            <itunes:duration>20:42</itunes:duration>
+            <itunes:keywords>программирование it software podcast talks</itunes:keywords>
+        </item>
     </channel>
 </rss>
