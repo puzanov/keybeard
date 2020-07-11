@@ -13,9 +13,9 @@
         </itunes:category>
         <itunes:subtitle>Keybeard Show. Говорим про бытовые проблемы программистов</itunes:subtitle>
         <itunes:summary>Keybeard — это аудио-видео подкаст, где программисты (и не очень) рассказывают программистам об околопрограммистких проблемах. Например о том, как бороться с ленью, как прокачивать фокус, как иметь дело с мудаками в команде, как мотивировать себя развиваться и т.д. Выпуски выходят примерно раз в месяц: редко, но метко – будет интересно послушать не только тем, кто непосредственно пишет код, но и тем, кто хотя бы косвенно относится к IT сфере.</itunes:summary>
-        <itunes:author>Michael Ivashchenko & Oleg Puzanov</itunes:author>
+        <itunes:author>Michael Ivashchenko &amp; Oleg Puzanov</itunes:author>
         <itunes:owner>
-            <itunes:name>Michael Ivashchenko & Oleg Puzanov</itunes:name>
+            <itunes:name>Michael Ivashchenko &amp; Oleg Puzanov</itunes:name>
             <itunes:email>keybeardchannel@gmail.com</itunes:email>
         </itunes:owner>
         <itunes:explicit>Yes</itunes:explicit>
@@ -97,7 +97,7 @@
         </item>
         <item>
             <title>Keybeard #5 – Синдром самозванца</title>
-            <description>В этом выпуске мы записывались в новом месте, где возможно не идеальные условия по звуку, но крайне офигенная атмосфера – Torro Bar&Grill. Был у нас в гостях Даниил Вартанов, который предложил обсудить такую тему, как синдром самозванца. Тема оказалась очень интересной и мы ожидаем много фидбека. Поговорили, как обычно – о примерах, о мифах, о способах решения проблемы.</description>
+            <description>В этом выпуске мы записывались в новом месте, где возможно не идеальные условия по звуку, но крайне офигенная атмосфера – Torro Bar&amp;Grill. Был у нас в гостях Даниил Вартанов, который предложил обсудить такую тему, как синдром самозванца. Тема оказалась очень интересной и мы ожидаем много фидбека. Поговорили, как обычно – о примерах, о мифах, о способах решения проблемы.</description>
             <link>https://www.youtube.com/watch?v=uSeAnUVUbOY</link>
             <enclosure url="http://keybeard.yourcast.tv/5.mp3" type="audio/mpeg"></enclosure>
             <pubDate>Sun, Dec 31 2017 09:00:00 +0600</pubDate>
