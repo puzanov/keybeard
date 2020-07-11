@@ -9,6 +9,11 @@
     <itunes:category text="Information Technology" />
     <itunes:type>episodic</itunes:type>
     <itunes:image href="http://keybeard.yourcast.tv/keybeard-logotype.png" />
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:owner>
+        <itunes:name>Michael Ivashchenko &amp; Oleg Puzanov</itunes:name>
+        <itunes:email>keybeard@vewku.com</itunes:email>
+    </itunes:owner>    
     <item>
         <guid>1</guid>
         <title>Keybeard #0 – Pilot</title>
