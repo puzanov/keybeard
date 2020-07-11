@@ -1,44 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" xmlns:cc="http://web.resource.org/cc/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-    <channel>
-        <atom:link href="http://keybeard.yourcast.tv/keybeard.rss" rel="self" type="application/rss+xml"/>
-        <title>Keybeard Show</title>
-        <description>Keybeard — это аудио-видео подкаст, где программисты (и не очень) рассказывают программистам об околопрограммистких проблемах. Например о том, как бороться с ленью, как прокачивать фокус, как иметь дело с мудаками в команде, как мотивировать себя развиваться и т.д. Выпуски выходят примерно раз в месяц: редко, но метко – будет интересно послушать не только тем, кто непосредственно пишет код, но и тем, кто хотя бы косвенно относится к IT сфере.</description>
-        <link>http://keybeard.show/</link>
-        <lastBuildDate>Mon, 25 Jul 2005 16:37:32 -0400</lastBuildDate>
-        <pubDate>Mon, 25 Jul 2005 09:00:00 -0400</pubDate>
-        <generator>Hands</generator>
-        <language>ru</language>
-        <itunes:category text="Technology">
-            <itunes:category text="Information Technology"/>
-        </itunes:category>
-        <itunes:subtitle>Keybeard Show. Говорим про бытовые проблемы программистов</itunes:subtitle>
-        <itunes:summary>Keybeard — это аудио-видео подкаст, где программисты (и не очень) рассказывают программистам об околопрограммистких проблемах. Например о том, как бороться с ленью, как прокачивать фокус, как иметь дело с мудаками в команде, как мотивировать себя развиваться и т.д. Выпуски выходят примерно раз в месяц: редко, но метко – будет интересно послушать не только тем, кто непосредственно пишет код, но и тем, кто хотя бы косвенно относится к IT сфере.</itunes:summary>
-        <itunes:author>Michael Ivashchenko & Oleg Puzanov</itunes:author>
-        <itunes:owner>
-            <itunes:name>Michael Ivashchenko & Oleg Puzanov</itunes:name>
-            <itunes:email>keybeardchannel@gmail.com</itunes:email>
-        </itunes:owner>
-        <itunes:explicit>Yes</itunes:explicit>
-        <itunes:image>
-            <url>http://keybeard.yourcast.tv/keybeard-logotype.png</url>
-            <title>Keybeard Show</title>
-            <link>http://keybeard.show/</link>
-        </itunes:image>
-        <itunes:link rel="image" type="video/jpeg" href="http://keybeard.yourcast.tv/keybeard-logotype.png">- Keybeard Show</itunes:link>
-        
-        <item>
-            <title>Keybeard #0 – Pilot</title>
-            <description>Наша первая попытка записать что-то вроде видеоподкаста. Из получасовой беседы порезали до 5+ минут. Информативности в этом выпуске-пилоте примерно 1%, нарезано больше для того, чтобы примерно было ясно, в каком формате все это будет происходить дальше. Меняются темы беседы не очевидно, т.к. это типа трейлер. Отзывы, комментарии и предложения настоятельно приветствуются. P.S. Кстати, здесь взрослые дядьки ругаются матом. Поэтому, возможно, NSFW (мы еще не решили).</description>
-            <link>https://www.youtube.com/watch?v=Cz0EMQBarwg</link>
-            <enclosure url="http://keybeard.yourcast.tv/0.mp3" type="audio/mpeg"></enclosure>
-            <pubDate>Fri, Mar 24 2017 09:00:00 +0600</pubDate>
-            <itunes:category text="Technology">
-                <itunes:category text="Information Technology"/>
-            </itunes:category>
-            <itunes:explicit>Yes</itunes:explicit>
-            <itunes:duration>5:50</itunes:duration>
-            <itunes:keywords>программирование</itunes:keywords>
-        </item>
-    </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+    <title>Keybeard Show</title>
+    <link>https://www.youtube.com/c/Keybeard/</link>
+    <description>Keybeard — это аудио-видео подкаст, где программисты (и не очень) рассказывают программистам об околопрограммистких проблемах. Например о том, как бороться с ленью, как прокачивать фокус, как иметь дело с мудаками в команде, как мотивировать себя развиваться и т.д. Выпуски выходят примерно раз в месяц: редко, но метко – будет интересно послушать не только тем, кто непосредственно пишет код, но и тем, кто хотя бы косвенно относится к IT сфере.</description>
+    <language>ru</language>
+    <itunes:author>Michael Ivashchenko &amp; Oleg Puzanov</itunes:author>
+    <itunes:category text="Information Technology" />
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="http://keybeard.yourcast.tv/keybeard-logotype.png" />
+    <item>
+        <guid>1</guid>
+        <title>Keybeard #0 – Pilot</title>
+        <description>Наша первая попытка записать что-то вроде видеоподкаста. Из получасовой беседы порезали до 5+ минут. Информативности в этом выпуске-пилоте примерно 1%, нарезано больше для того, чтобы примерно было ясно, в каком формате все это будет происходить дальше. Меняются темы беседы не очевидно, т.к. это типа трейлер. Отзывы, комментарии и предложения настоятельно приветствуются. P.S. Кстати, здесь взрослые дядьки ругаются матом. Поэтому, возможно, NSFW (мы еще не решили).</description>
+        <pubDate>Fri, Mar 24 2017 09:00:00 +0600</pubDate>
+        <itunes:order>1</itunes:order>
+        <itunes:duration>350</itunes:duration>
+        <enclosure url="http://keybeard.yourcast.tv/0.mp3" type="audio/mpeg" />
+    </item>
+</channel>
 </rss>
