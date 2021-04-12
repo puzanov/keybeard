@@ -263,5 +263,103 @@
             <itunes:duration>20:42</itunes:duration>
             <itunes:keywords>программирование it software podcast talks</itunes:keywords>
         </item>
+        <item>
+            <title>Keybeard #17 – Работа в проекте не приносит удовольствия. Что делать?</title>
+            <description>Ловили ли вы когда-нибудь себя на мысли, что работа в вашем текущем проекте не приносит вам удовольствия? Возможно вам кажется что вы занимаетесь чем-то малозначимым, а могли бы сейчас строить космические корабли и беспилотные автомобили в SpaceX или Google. Но что же вам мешает в таком случае? В очередном выпуске Keybeard Михаил Иващенко и Олег Пузанов обсудят проблему так называемого "экзистенциального вакуума" в который может попасть любой труженик IT сферы. По ходу дела также будут проведены параллели между реальностью и историями успеха, отраженных в многочисленных фильмах и сериалах (среди которых "Кремниевая долина"). И как всегда вы получите советы и наставления от двух опытных перцев!</description>
+            <link>https://www.youtube.com/watch?v=PkFHpoVw02s</link>
+            <enclosure url="http://keybeard.yourcast.tv/17.mp3" type="audio/mpeg"></enclosure>
+            <pubDate>Fri, Jun 24 2020 09:00:00 +0600</pubDate>
+            <itunes:category text="Technology">
+                <itunes:category text="Information Technology"/>
+            </itunes:category>
+            <itunes:order>18</itunes:order>
+            <itunes:explicit>Yes</itunes:explicit>
+            <itunes:duration>19:38</itunes:duration>
+            <itunes:keywords>программирование it software podcast talks</itunes:keywords>
+        </item>
+        <item>
+            <title>Keybeard #18 – Программист в штатском</title>
+            <description>Равняясь, смирно! Как вы думаете чем отличается прогер в штатском от бывалого программиста-вояки? Такое вот условное разделение на сей раз будут обсуждать бессменные ведущие Кибирда – Олег Пузанов и Михаил Иващенко. Программист-вояка, или прогер служивый – это специалист с огромным багажем знаний и опыта, который за свою жизнь повидал то, как IT-индустрия менялась и развивалась. Вояка может накодить что угодно на каком угодно языке, он знает как всё работает под капотами, как всё разобрать и собрать (без лишних деталей). Программист в штатском же (Citizen Developer) – это новобранец, у которого отсутствуют глубинные познания в программировании, который ещё даже по-настоящему "прода не нюхал". Основные навыки гражданского разработчика – умение использовать готовые технологии и решения, просчитывать бюджет, а кодит он по-минимуму. Больше деталей в нашем подкасте, приятного прослушиваения.</description>
+            <link>https://www.youtube.com/watch?v=OXQx_ARvPmc</link>
+            <enclosure url="http://keybeard.yourcast.tv/18.mp3" type="audio/mpeg"></enclosure>
+            <pubDate>Fri, Aug 4 2020 09:00:00 +0600</pubDate>
+            <itunes:category text="Technology">
+                <itunes:category text="Information Technology"/>
+            </itunes:category>
+            <itunes:order>19</itunes:order>
+            <itunes:explicit>Yes</itunes:explicit>
+            <itunes:duration>24:18</itunes:duration>
+            <itunes:keywords>программирование it software podcast talks</itunes:keywords>
+        </item>
+        <item>
+            <title>Keybeard #19 – "Выгорание" или Перманентная усталость</title>
+            <description>Сталкивались ли вы когда-нибудь с таким понятием как "выгорание"? Под выгоранием принято понимать физическое и психическое истощение организма вызванное эмоциональным перенапряжением и стрессом. У "выгоревшего" человека снижена продуктивность, нет сил и мотивации на рабочую деятельность. В IT сфере мы особенно часто сталкиваемся с данным явлением. Однако, как же всё таки отличить выгорание от банальной усталости и переработки? Не заблуждаются ли люди, которые говорят, что они начинают выгорать? Какими симптомами сопровождается выгорание и как его лечить? В очередном выпуске Keybeard, Михаил Иващенко и Олег Пузанов подискутируют на эту тему и поделятся историями выгораний из личного опыта.</description>
+            <link>https://www.youtube.com/watch?v=OUqtdjDAdRQ</link>
+            <enclosure url="http://keybeard.yourcast.tv/19.mp3" type="audio/mpeg"></enclosure>
+            <pubDate>Thu, Nov 12 2020 09:00:00 +0600</pubDate>
+            <itunes:category text="Technology">
+                <itunes:category text="Information Technology"/>
+            </itunes:category>
+            <itunes:order>20</itunes:order>
+            <itunes:explicit>Yes</itunes:explicit>
+            <itunes:duration>29:14</itunes:duration>
+            <itunes:keywords>программирование it software podcast talks</itunes:keywords>
+        </item>
+        <item>
+            <title>Keybeard #20 – Возраст в IT</title>
+            <description>Данный выпуск посвящен теме возраста в IT командах. Михаил Иващенко и Олег Пузанов расскажут о стандартных типах людей в коллективе, их роли и пользе. С ростом сферы IT, команды становятся «разношерстными» - то есть включают в себя людей разных возрастов. Можно ли делать команды смешанными? Как удержать командные взаимодействие и сократить негативное влияние «разновозрастной» проблемы внутри коллектива? Ответы на эти и другие актуальные вопросы вы получите в данном подкасте.</description>
+            <link>https://www.youtube.com/watch?v=ZmZ2szl5IPA</link>
+            <enclosure url="http://keybeard.yourcast.tv/20.mp3" type="audio/mpeg"></enclosure>
+            <pubDate>Tue, Feb 2 2021 09:00:00 +0600</pubDate>
+            <itunes:category text="Technology">
+                <itunes:category text="Information Technology"/>
+            </itunes:category>
+            <itunes:order>21</itunes:order>
+            <itunes:explicit>Yes</itunes:explicit>
+            <itunes:duration>31:28</itunes:duration>
+            <itunes:keywords>программирование it software podcast talks</itunes:keywords>
+        </item>
+        <item>
+            <title>Keybeard #21 – Здоровье программистов: Еда</title>
+            <description>Это первый выпуск из серии о здоровье программистов. Серия включает в себя размышления наших спикеров о пользе правильного питания, о необходимости регулярного и своевременного сна, о спорте и саплиментах (добавки, англ. «supply» – «снабжать»). Прослушав этот подкаст вы узнаете много интересных советов, которые станут первым шагом перехода к правильному питанию. А также вы можете сразу  применить все приведенные советы на практике.</description>
+            <link>https://www.youtube.com/watch?v=chljFUzCvxU</link>
+            <enclosure url="http://keybeard.yourcast.tv/21.mp3" type="audio/mpeg"></enclosure>
+            <pubDate>Wed, Feb 17 2021 09:00:00 +0600</pubDate>
+            <itunes:category text="Technology">
+                <itunes:category text="Information Technology"/>
+            </itunes:category>
+            <itunes:order>22</itunes:order>
+            <itunes:explicit>Yes</itunes:explicit>
+            <itunes:duration>33:33</itunes:duration>
+            <itunes:keywords>программирование it software podcast talks</itunes:keywords>
+        </item>
+        <item>
+            <title>Keybeard #22 – Здоровье программистов: Спорт и Саплименты</title>
+            <description>Продолжаем серию выпусков про здоровье. Затронем тему спорта и саплиментов (англ. «supplemenst» - добавки). Наши спикеры Михаил Иващенко и Олег Пузанов обсудят важные темы и поделятся своим личным опытом. Как спорт отражается на работе программиста? Действительно ли важна регулярность в спорте? Что такое саплименты и какая от них польза? На эти и другие не менее актуальные вопросы вы узнаете ответы в этом выпуске.</description>
+            <link>https://www.youtube.com/watch?v=-OByKMxkFxI</link>
+            <enclosure url="http://keybeard.yourcast.tv/22.mp3" type="audio/mpeg"></enclosure>
+            <pubDate>Wed, Feb 24 2021 09:00:00 +0600</pubDate>
+            <itunes:category text="Technology">
+                <itunes:category text="Information Technology"/>
+            </itunes:category>
+            <itunes:order>23</itunes:order>
+            <itunes:explicit>Yes</itunes:explicit>
+            <itunes:duration>33:41</itunes:duration>
+            <itunes:keywords>программирование it software podcast talks</itunes:keywords>
+        </item>
+        <item>
+            <title>Keybeard #23 – Здоровье программистов: Сон</title>
+            <description>В современном мире сложно найти разработчика, который бы всегда был бодр, легко засыпал и просыпался без труда. В данном подкасте анализируются проблемы которые приводят к недосыпу и ухудшают качество сна. Наши спикеры Михаил Иващенко и Олег Пузанов расскажут о культуре правильного сна для разработчиков и прочих тружеников "дигитальной" сферы. В выпуске вы найдете ответы на вопросы: Что нельзя делать перед сном? Как бороться с бессонницей? Как создать условия для полноценного сна?</description>
+            <link>https://www.youtube.com/watch?v=HIbo4WFWItQ</link>
+            <enclosure url="http://keybeard.yourcast.tv/23.mp3" type="audio/mpeg"></enclosure>
+            <pubDate>Wed, March 3 2021 09:00:00 +0600</pubDate>
+            <itunes:category text="Technology">
+                <itunes:category text="Information Technology"/>
+            </itunes:category>
+            <itunes:order>24</itunes:order>
+            <itunes:explicit>Yes</itunes:explicit>
+            <itunes:duration>39:18</itunes:duration>
+            <itunes:keywords>программирование it software podcast talks</itunes:keywords>
+        </item>
     </channel>
 </rss>
